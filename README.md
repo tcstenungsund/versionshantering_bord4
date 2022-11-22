@@ -5,7 +5,17 @@ PRs / branches som ej har mergats kommer ej räknas.
 
 ## Uppgift 1
 
-Skriv en slogan om Kenneth
+
+Kenneth, 44 år 
+180cm lång
+apatisk
+massiv dase (33cm)
+proffs på html och css
+
+Mindre än en kilometer bort
+
+
+
 
 ## Uppgift 2
 
