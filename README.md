@@ -5,7 +5,7 @@ PRs / branches som ej har mergats kommer ej räknas.
 
 ## Uppgift 1
 
-Skriv en slogan om Kenneth
+Kenneth, "människor är dumma"
 
 ## Uppgift 2
 
