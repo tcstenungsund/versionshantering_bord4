@@ -16,14 +16,14 @@ Lista alla HTML taggar ni kan komma på i bokstavsordning och med beskrivning va
 <abbr>	Definierar en abbreviation	
 <acronym>	Definierar en acronym	
 <adress>	Definierar ett adresselement	
-<applet>	(Deprecated) Definierar en applet	
+<applet>	Definierar en applet	
 <area>	Definierar en area inuti en image map	
-<b>	Definierar fet text	<b>Denna text blir fet</b>	Denna text blir fet
+<b>	Definierar fet text
 <base>	Definierar en URL för alla länkar på sidan	
-<basefont>	(Deprecated) Definierar en standardfont	
-<bdo>	Definierar riktningen av texten	<bdo dir="rtl">Naturrutan är ett anagram</bdo>	margana tte rä naturrutan
-<bgcolor>	Definierar bakgrundsfärg	<td bgcolor="red">Färg</td>	Färg
-<big>	Definierar stor text	<big>Denna text blir stor</big>	Denna text blir stor
+<basefont>	Definierar en standardfont	
+<bdo>	Definierar riktningen av texten	
+<bgcolor>	Definierar bakgrundsfärg	
+<big>	Definierar stor text	
 <blockquote>	Definierar en lång quotation	
 <body>	Definierar bodyn	
 <border>	Definierar tabellram	<table border="1">	
