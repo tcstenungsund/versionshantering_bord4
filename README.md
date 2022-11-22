@@ -6,11 +6,17 @@ PRs / branches som ej har mergats kommer ej räknas.
 ## Uppgift 1
 
 
-Kenneth, 44 år 
-180cm lång
-apatisk
-massiv dase (33cm)
-proffs på html och css
+Kenneth, 
+
+-44 år 
+
+-180cm lång
+
+-apatisk
+
+-massiv dase (33cm)
+
+-proffs på html och css
 
 Mindre än en kilometer bort
 
