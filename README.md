@@ -5,7 +5,8 @@ PRs / branches som ej har mergats kommer ej räknas.
 
 ## Uppgift 1
 
-Skriv en slogan om Kenneth
+Skriv en slogan om Kenneth 
+   arbete ger frihet                                                                           
 
 ## Uppgift 2
 
